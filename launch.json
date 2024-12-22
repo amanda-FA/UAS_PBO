@@ -1,0 +1,44 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "UAS_PBO_1afaadb8"
+        },
+        {
+            "type": "java",
+            "name": "TestKoneksi",
+            "request": "launch",
+            "mainClass": "TestKoneksi",
+            "projectName": "UAS_PBO_1afaadb8"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib\\postgresql-42.7.4.jar"
+    ],
+    "workbench.colorTheme": "badbird",
+    "workbench.editorAssociations": {
+        "*.jar": "default"
+    },
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
